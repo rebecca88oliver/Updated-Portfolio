@@ -51,6 +51,9 @@ body {
   max-width: 42em;
 }
 
+main {
+padding-top: 1rem;
+}
 
 /*
  * Header

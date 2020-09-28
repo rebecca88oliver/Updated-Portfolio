@@ -19,6 +19,9 @@ a:hover {
   border: .05rem solid #fff;
 }
 
+.myDarkNess {
+background-color: transparent;
+}
 
 /*
  * Base structure
@@ -26,12 +29,12 @@ a:hover {
 
 html,
 body {
+  
   height: 100%;
   background-color: #333;
 }
 
-body {
-  display: -ms-flexbox;
+body {  display: -ms-flexbox;
   display: flex;
   color: #fff;
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
