@@ -6,7 +6,7 @@
 a,
 a:focus,
 a:hover {
-  color: #fff;
+  color: rgb(233, 25, 240);
 }
 
 /* Custom default button */
@@ -22,6 +22,7 @@ a:hover {
 .myDarkNess {
 background-color: transparent;
 }
+
 
 /*
  * Base structure
